@@ -11,5 +11,4 @@ The CIFAR-10 dataset consists of 60000 32×32 colour images in 10 classes, with 
 6. Building the Model
 7. Evaluation of the Model
 8. End Results
-9. Credits and Acknowledgements
 # End Results
